@@ -32,3 +32,4 @@ az container show  \
     --out table
 ```
 
+adios
